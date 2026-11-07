@@ -9,14 +9,14 @@ Public Codex Meter Android installer releases. Source code remains in the privat
   "channel": "stable",
   "targets": {
     "android": {
-      "version": "0.4.2",
-      "build": 11,
-      "notes": "ChatGPT 로그인 중 연결이 잠시 끊겨도 같은 코드로 승인 확인을 이어갑니다. 승인 확인과 로그인 정보 받기의 진행 상태와 오류를 따로 표시합니다.",
-      "page": "https://github.com/HeesungYang1/codex-meter-releases/releases/tag/v0.4.2",
+      "version": "0.4.3",
+      "build": 12,
+      "notes": "알림창에서 모두 지워도 사용량 모니터는 계속 작동하고 모니터 알림이 남습니다. 잔여량 경고, 초기화, 테스트 알림은 지울 수 있습니다.",
+      "page": "https://github.com/HeesungYang1/codex-meter-releases/releases/tag/v0.4.3",
       "asset": {
-        "name": "Codex-Meter-v0.4.2.apk",
-        "url": "https://github.com/HeesungYang1/codex-meter-releases/releases/download/v0.4.2/Codex-Meter-v0.4.2.apk",
-        "sha256": "774ccb62979e0374602a7983c4cdf43df7479553435bc4dc1957de3f3b93b5a5"
+        "name": "Codex-Meter-v0.4.3.apk",
+        "url": "https://github.com/HeesungYang1/codex-meter-releases/releases/download/v0.4.3/Codex-Meter-v0.4.3.apk",
+        "sha256": "ba48ae0d9eaa78dd695dc24868109c87f29d0ad1bd08f33c1215430875fd2d81"
       }
     }
   }
