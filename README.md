@@ -9,14 +9,14 @@ Public Codex Meter Android installer releases. Source code remains in the privat
   "channel": "stable",
   "targets": {
     "android": {
-      "version": "0.4.1",
-      "build": 10,
-      "notes": "앱을 열거나 돌아올 때 새 버전을 자동으로 확인합니다. 설정에서 자동 확인을 끄거나 지금 확인할 수 있습니다.",
-      "page": "https://github.com/HeesungYang1/codex-meter-releases/releases/tag/v0.4.1",
+      "version": "0.4.2",
+      "build": 11,
+      "notes": "ChatGPT 로그인 중 연결이 잠시 끊겨도 같은 코드로 승인 확인을 이어갑니다. 승인 확인과 로그인 정보 받기의 진행 상태와 오류를 따로 표시합니다.",
+      "page": "https://github.com/HeesungYang1/codex-meter-releases/releases/tag/v0.4.2",
       "asset": {
-        "name": "Codex-Meter-v0.4.1.apk",
-        "url": "https://github.com/HeesungYang1/codex-meter-releases/releases/download/v0.4.1/Codex-Meter-v0.4.1.apk",
-        "sha256": "f1b857c94bfaaf1923041e67b750c4a9457eb1596975cd4667bd9de3ebf1c29f"
+        "name": "Codex-Meter-v0.4.2.apk",
+        "url": "https://github.com/HeesungYang1/codex-meter-releases/releases/download/v0.4.2/Codex-Meter-v0.4.2.apk",
+        "sha256": "774ccb62979e0374602a7983c4cdf43df7479553435bc4dc1957de3f3b93b5a5"
       }
     }
   }
