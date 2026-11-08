@@ -9,14 +9,14 @@ Public Codex Meter Android installer releases. Source code remains in the privat
   "channel": "stable",
   "targets": {
     "android": {
-      "version": "0.4.15",
-      "build": 24,
-      "notes": "사용량 탭 버튼을 가볍게 정리하고 초기화권 버튼을 기한 오른쪽으로 옮겼습니다. 새로고침 진행·대기와 오래된 잔여량을 표시합니다.",
-      "page": "https://github.com/HeesungYang1/codex-meter-releases/releases/tag/v0.4.15",
+      "version": "0.5.0",
+      "build": 25,
+      "notes": "설정에서 8개 언어를 선택할 수 있습니다. 화면, 로그인 안내, 위젯, 타일, 알림과 오프라인 도움말에 적용됩니다.",
+      "page": "https://github.com/HeesungYang1/codex-meter-releases/releases/tag/v0.5.0",
       "asset": {
-        "name": "Codex-Meter-v0.4.15.apk",
-        "url": "https://github.com/HeesungYang1/codex-meter-releases/releases/download/v0.4.15/Codex-Meter-v0.4.15.apk",
-        "sha256": "1e2a3a7c926242880dde8ae64619949a864840242d70ee0cca21f3047db035e0"
+        "name": "Codex-Meter-v0.5.0.apk",
+        "url": "https://github.com/HeesungYang1/codex-meter-releases/releases/download/v0.5.0/Codex-Meter-v0.5.0.apk",
+        "sha256": "2ed0372a4c5d4df4af2504cfb600df3c414b3762e41309895db0deb4a9a7ceb0"
       }
     }
   }
