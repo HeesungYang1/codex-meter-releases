@@ -9,14 +9,14 @@ Public Codex Meter Android installer releases. Source code remains in the privat
   "channel": "stable",
   "targets": {
     "android": {
-      "version": "0.4.9",
-      "build": 18,
-      "notes": "흰색과 차콜을 중심으로 화면을 다듬고, 앱 테마에 시스템 설정·라이트·다크 선택을 추가했습니다.",
-      "page": "https://github.com/HeesungYang1/codex-meter-releases/releases/tag/v0.4.9",
+      "version": "0.4.10",
+      "build": 19,
+      "notes": "잔여량을 원형 게이지로 표시하고, 위젯과 타일 추가는 설정에만 남겼습니다.",
+      "page": "https://github.com/HeesungYang1/codex-meter-releases/releases/tag/v0.4.10",
       "asset": {
-        "name": "Codex-Meter-v0.4.9.apk",
-        "url": "https://github.com/HeesungYang1/codex-meter-releases/releases/download/v0.4.9/Codex-Meter-v0.4.9.apk",
-        "sha256": "081710759ea18f16e10140c5daae1380fadd977d40ecffcb35ad0818ecd21867"
+        "name": "Codex-Meter-v0.4.10.apk",
+        "url": "https://github.com/HeesungYang1/codex-meter-releases/releases/download/v0.4.10/Codex-Meter-v0.4.10.apk",
+        "sha256": "850960fa2fb93a2f566b3273a3488d1d2a8d0a879359667df5936721090893f9"
       }
     }
   }
